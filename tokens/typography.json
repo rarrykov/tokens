@@ -1,5 +1,5 @@
 {
-  "global": {
+  "typography": {
     "fontFamilies": {
       "pf-dindisplay-pro": {
         "value": "PF DinDisplay Pro",
@@ -512,7 +512,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "typography"
     ]
   }
 }
